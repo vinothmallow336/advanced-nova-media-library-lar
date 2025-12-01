@@ -8,7 +8,7 @@
     "license": "MIT",
     "repositories": [
         {
-            "type": "vcs",
+            "type": "composer",
             "url": "https://github.com/vinothmallow336/advanced-nova-media-library-lar.git"
         }
     ],
